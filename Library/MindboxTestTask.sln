@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindboxTestTaskLibrary", "Library\MindboxTestTaskLibrary.csproj", "{23B394F6-B32A-40E1-B792-E3B34981A846}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{8BA17ED1-BF97-42E0-8E10-17FD612FB587}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{23B394F6-B32A-40E1-B792-E3B34981A846}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23B394F6-B32A-40E1-B792-E3B34981A846}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23B394F6-B32A-40E1-B792-E3B34981A846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA17ED1-BF97-42E0-8E10-17FD612FB587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA17ED1-BF97-42E0-8E10-17FD612FB587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA17ED1-BF97-42E0-8E10-17FD612FB587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA17ED1-BF97-42E0-8E10-17FD612FB587}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
