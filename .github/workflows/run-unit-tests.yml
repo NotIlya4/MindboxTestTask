@@ -4,11 +4,11 @@ on:
   push:
     branches:
     paths:
-      - Library/UnitTests/**
+      - Library/**
   pull_request:
     branches:
     paths:
-      - Library/UnitTests/**
+      - Library/**
 
 jobs:
   run_unit_tests:
